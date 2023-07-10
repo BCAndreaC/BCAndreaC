@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Andrea BC</h1>
+<h1 align="center">Hi 👋, I'm Andrea BC</h1> 
+
 <h3 align="center">Front-end developer obsessed with immersive experiences</h3>
 <p align="center">For me, every line of code is part of a master plan to deliver a life-changing user experience. I firmly believe in the collaboration and synergy that arises when talented individuals come together with a common goal, and I enjoy contributing my skills, knowledge, and ideas to a team to contribute to collective success.</p>
 
