@@ -7,7 +7,7 @@
 <p align="left"> <a href=![octocat-1687370720642](https://github.com/BCAndreaC/BCAndreaC/assets/126895867/b5d02925-dfcd-49e9-8a5c-8f79a1e1106e)
   </a> </p>
 
-- 🔭 I’m currently working on [Queen-pattys](https://github.com/BCAndreaC/Queen-pattys)
+<!--- 🔭 I’m currently working on [Queen-pattys](https://github.com/BCAndreaC/Queen-pattys) --->
 
 - 🌱 I’m currently learning **Swift**
 
