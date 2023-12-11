@@ -9,7 +9,7 @@
 
 <!--- 🔭 I’m currently working on [Queen-pattys](https://github.com/BCAndreaC/Queen-pattys) --->
 
-- 🌱 I’m currently learning **Swift**
+- 🌱 I’m currently learning **SQL**
 
 - 📫 How to reach me **bc.andreac@gmail.com**
 
